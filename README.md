@@ -1,16 +1,16 @@
-<h1>📊 KPIM Mart Sales Revenue Progress Analysis</h1>
+<h1 align="center">📊 KPIM Mart Sales Revenue Progress Analysis</h1>
 
 <p>
 An interactive Power BI dashboard developed to monitor sales performance, compare actual revenue with planned revenue, evaluate year-over-year growth, and identify performance patterns across stores, products, customers, and promotions.
 </p>
 
-<p>
+<p align="center">
   <a href="https://app.powerbi.com/view?r=eyJrIjoiZWFmN2Q2ODUtZWU4ZC00N2U5LWFiNDktZjhlZGI0YzhjNTEyIiwidCI6IjJiYTMzNDA3LTVjY2MtNDk0MC1iZDE2LWFlMTU0ZjA0YzNjYSIsImMiOjZ9">
     <img src="https://img.shields.io/badge/View_Interactive_Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="View Interactive Dashboard">
   </a>
 </p>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Tool-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
   <img src="https://img.shields.io/badge/Language-DAX-1F4E78?style=flat-square" alt="DAX">
   <img src="https://img.shields.io/badge/Data_Preparation-Power_Query-2E75B6?style=flat-square" alt="Power Query">
@@ -21,7 +21,7 @@ An interactive Power BI dashboard developed to monitor sales performance, compar
 
 <hr>
 
-<h2>📌 Project Overview</h2>
+<h2 align="center">📌 Project Overview</h2>
 
 <p>
 The <strong>KPIM Mart Sales Revenue Progress Analysis</strong> dashboard provides management with a centralized view of revenue performance. It connects sales results with revenue plans and historical performance so users can quickly identify whether the business, stores, products, and customer groups are meeting expectations.
@@ -40,7 +40,7 @@ The report is organized into four interactive pages:
 
 <hr>
 
-<h2>🎯 Business Objectives</h2>
+<h2 align="center">🎯 Business Objectives</h2>
 
 <ul>
   <li>Monitor actual revenue against planned revenue.</li>
@@ -55,7 +55,7 @@ The report is organized into four interactive pages:
 
 <hr>
 
-<h2>❓ Key Business Questions</h2>
+<h2 align="center">❓ Key Business Questions</h2>
 
 <ol>
   <li>How much actual revenue has KPIM Mart generated?</li>
@@ -72,7 +72,7 @@ The report is organized into four interactive pages:
 
 <hr>
 
-<h2>📈 Key Performance Indicators</h2>
+<h2 align="center">📈 Key Performance Indicators</h2>
 
 <table>
   <tr>
@@ -111,7 +111,7 @@ The report is organized into four interactive pages:
 
 <hr>
 
-<h2>🧭 Dashboard Pages</h2>
+<h2 align="center">🧭 Dashboard Pages</h2>
 
 <details open>
   <summary><strong>1. Overview</strong></summary>
@@ -183,7 +183,7 @@ The report is organized into four interactive pages:
 
 <hr>
 
-<h2>🗂️ Data Model</h2>
+<h2 align="center">🗂️ Data Model</h2>
 
 <p>
 The Power BI report uses a structured analytical model containing two fact tables, five dimension tables, and one dedicated measure table.
@@ -274,7 +274,7 @@ The Power BI report uses a structured analytical model containing two fact table
 
 <hr>
 
-<h2>✨ Dashboard Features</h2>
+<h2 align="center">✨ Dashboard Features</h2>
 
 <ul>
   <li>Interactive page navigation across four analytical views</li>
@@ -290,7 +290,7 @@ The Power BI report uses a structured analytical model containing two fact table
 
 <hr>
 
-<h2>🚀 View the Interactive Dashboard</h2>
+<h2 align="center">🚀 View the Interactive Dashboard</h2>
 
 <div align="center">
   <p>Open the complete report in Power BI Service:</p>
@@ -336,7 +336,7 @@ KPIM-Mart-Sales-Revenue-Progress-Analysis/
 
 <hr>
 
-<h2>📚 Skills Demonstrated</h2>
+<h2 align="center">📚 Skills Demonstrated</h2>
 
 <ul>
   <li>Business intelligence reporting</li>
